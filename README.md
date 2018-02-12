@@ -1,3 +1,7 @@
- ## D
+## D
 
- *Dell Computers* - [How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/dell-computers-michael-dell)
+**Dell Computers** - [Michael Dell on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/dell-computers-michael-dell)
+
+## T
+
+**Thoughtbot** - [Giant Robots 262: The Thought Behind the Bot](https://player.fm/series/series-1401629/262-the-thought-behind-the-bot)
