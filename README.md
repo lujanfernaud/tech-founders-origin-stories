@@ -1,6 +1,7 @@
 ## A
 
 **Apple** - [NPR: A Chat with Computing Pioneer Steve Wozniak](https://www.npr.org/templates/story/story.php?storyId=6167297)
+**Atari** - [Nolan Bushnell on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/atari-chuck-e-cheeses-nolan-bushnell)
 
 ## D
 
