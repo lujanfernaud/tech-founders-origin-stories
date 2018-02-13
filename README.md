@@ -1,3 +1,7 @@
+## A
+
+**Apple** - [NPR: A Chat with Computing Pioneer Steve Wozniak](https://www.npr.org/templates/story/story.php?storyId=6167297)
+
 ## D
 
 **Dell Computers** - [Michael Dell on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/dell-computers-michael-dell)
