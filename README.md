@@ -12,6 +12,9 @@
 - **Dell Computers**
   - [Michael Dell on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/dell-computers-michael-dell)  
 &nbsp;
+- **Dropbox**
+  - [Drew Houston on From Scratch](https://player.fm/series/from-scratch-30101/drew-houston)  
+&nbsp;
 - **Duolingo**
   - [Luis von Ahn on From Scratch](https://player.fm/series/from-scratch-30101/luis-von-ahn)  
 &nbsp;
@@ -33,7 +36,7 @@
 ## S
 &nbsp;
 - **Stripe**
-  - [Patrick Collison on From Scratch](https://player.fm/series/from-scratch-30101/patrick-collison)
+  - [Patrick Collison on From Scratch](https://player.fm/series/from-scratch-30101/patrick-collison)  
 &nbsp;
 ## T
 &nbsp;
