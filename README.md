@@ -30,6 +30,11 @@
 - **ReCAPTCHA**
   - [Luis von Ahn on From Scratch](https://player.fm/series/from-scratch-30101/luis-von-ahn)  
 &nbsp;
+## S
+&nbsp;
+- **Stripe**
+  - [Patrick Collison on From Scratch](https://player.fm/series/from-scratch-30101/patrick-collison)
+&nbsp;
 ## T
 &nbsp;
 - **Thoughtbot**
