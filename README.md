@@ -28,6 +28,11 @@
 - **LinkedIn**
   - [Reid Hoffman on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/linkedin-reid-hoffman)  
 &nbsp;
+## P
+&nbsp;
+- **Pandora**
+  - [Tim Westergren on From Scratch](https://player.fm/series/from-scratch-30101/tim-westergren)  
+&nbsp;
 ## R
 &nbsp;
 - **ReCAPTCHA**
