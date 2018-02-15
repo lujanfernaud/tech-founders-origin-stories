@@ -18,6 +18,11 @@
 - **Duolingo**
   - [Luis von Ahn on From Scratch](https://player.fm/series/from-scratch-30101/luis-von-ahn) `32:00`  
 &nbsp;
+## G
+&nbsp;
+- **Geek Squad**
+  - [Robert Stephens on From Scratch](https://player.fm/series/from-scratch-30101/robert-stephens) `32:00`  
+&nbsp;
 ## I
 &nbsp;
 - **Instagram**
