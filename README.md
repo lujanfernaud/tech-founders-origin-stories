@@ -28,6 +28,9 @@
 &nbsp;
 ## I
 &nbsp;
+- **Infosys**
+  - [Nandan Nilekani on From Scratch](https://player.fm/series/from-scratch-30101/nandan-nilekani) `13:20`  
+&nbsp;
 - **Instagram**
   - [Kevin Systrom & Mike Krieger on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/instagram-kevin-systrom-mike-krieger-98iAhuOIQGDw1doL) `33:32`  
 &nbsp;
