@@ -12,6 +12,9 @@
 - **Dell Computers**
   - [Michael Dell on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/dell-computers-michael-dell) `50:31`  
 &nbsp;
+- **DoubleClick**
+  - [Kevin Ryan on From Scratch](https://player.fm/series/from-scratch-30101/kevin-ryan) `32:00`  
+&nbsp;
 - **Dropbox**
   - [Drew Houston on From Scratch](https://player.fm/series/from-scratch-30101/drew-houston) `32:00`  
 &nbsp;
