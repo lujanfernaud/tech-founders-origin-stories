@@ -21,6 +21,11 @@
 - **Duolingo**
   - [Luis von Ahn on From Scratch](https://player.fm/series/from-scratch-30101/luis-von-ahn) `32:00`  
 &nbsp;
+## F
+&nbsp;
+- **Funding Circle**
+  - [Samir Desai on Slush's Founder Story](https://www.youtube.com/watch?v=fzextuEOEA4) `18:07`  
+&nbsp;
 ## G
 &nbsp;
 - **Geek Squad**
