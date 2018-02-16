@@ -62,6 +62,9 @@
 - **Thoughtbot**
   - [Giant Robots 262: The Thought Behind the Bot](https://player.fm/series/series-1401629/262-the-thought-behind-the-bot) `57:06`  
 &nbsp;
+- **TripAdvisor**
+  - [Stephen Kaufer on TechCrunch's Founder Stories](https://www.youtube.com/watch?v=5JBa9ZH1i1M) `11:42`  
+&nbsp;
 ## W
 &nbsp;
 - **Wipro**
