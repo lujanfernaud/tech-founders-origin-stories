@@ -39,6 +39,10 @@
 - **LinkedIn**
   - [Reid Hoffman on How I Built This](https://player.fm/series/how-i-built-this-with-guy-raz/linkedin-reid-hoffman) `43:11`  
 &nbsp;
+## O
+- **OnePlus**
+  - [Carl Pei on Slush's Founder Story](https://www.youtube.com/watch?v=po1K8Kb5CwE) `18:01`  
+&nbsp;
 ## P
 &nbsp;
 - **Pandora**
