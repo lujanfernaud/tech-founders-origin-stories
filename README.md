@@ -7,6 +7,11 @@
   - [Nolan Bushnell on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/atari-chuck-e-cheeses-nolan-bushnell) `Audio` `50:56`
   - [Nolan Bushnell on *From Scratch*](https://player.fm/series/from-scratch-30101/nolan-bushnell) `Audio` `32:00`  
 &nbsp;
+## B
+&nbsp;
+- **BuzzFeed**
+  - [Jonah Peretti on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/buzzfeed-and-huffington-post-founder-jonah-peretti-how-i-turned-an-instant-messenger-bot-into-a-15-billion-media-empire) `Audio` `40:05`  
+&nbsp;
 ## D
 &nbsp;
 - **Dell Computers**
@@ -30,6 +35,11 @@
 &nbsp;
 - **Geek Squad**
   - [Robert Stephens on *From Scratch*](https://player.fm/series/from-scratch-30101/robert-stephens) `Audio` `32:00`  
+&nbsp;
+## H
+&nbsp;
+- **Huffington Post**
+  - [Jonah Peretti on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/buzzfeed-and-huffington-post-founder-jonah-peretti-how-i-turned-an-instant-messenger-bot-into-a-15-billion-media-empire) `Audio` `40:05`  
 &nbsp;
 ## I
 &nbsp;
