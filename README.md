@@ -71,6 +71,9 @@
 - **Thoughtbot**
   - [Giant Robots 262: The Thought Behind the Bot](https://player.fm/series/series-1401629/262-the-thought-behind-the-bot) `57:06`  
 &nbsp;
+- **Tinder**
+  - [Sean Rad on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/tinder-founder-what-its-really-like-to-build-a-3-billion-startup-in-your-20s) `34:55`  
+&nbsp;
 - **Trello**
   - [Michael Pryor on Slush's Founder Story](https://www.youtube.com/watch?v=Q4A0kgwlDeQ) `20:54`  
 &nbsp;
