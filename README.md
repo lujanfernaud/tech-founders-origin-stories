@@ -40,6 +40,9 @@
 - **Geek Squad**
   - [Robert Stephens on *From Scratch*](https://player.fm/series/from-scratch-30101/robert-stephens) `Audio` `32:00`  
 &nbsp;
+- **Group Nine**
+  - [Ben Lerer on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/group-nine-ceo-how-i-turned-an-email-for-civilized-bros-into-a-600-million-empire) `Audio` `30:21`  
+&nbsp;
 ## H
 &nbsp;
 - **Huffington Post**
@@ -88,6 +91,9 @@
 &nbsp;
 - **Thoughtbot**
   - [Matt Tucker, Calvin Swaim, Willie Conrad and Chad Pytel on *Giant Robots*](https://player.fm/series/series-1401629/262-the-thought-behind-the-bot) `Audio` `57:06`  
+&nbsp;
+- **Thrillist**
+  - [Ben Lerer on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/group-nine-ceo-how-i-turned-an-email-for-civilized-bros-into-a-600-million-empire) `Audio` `30:21`  
 &nbsp;
 - **Tinder**
   - [Sean Rad on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/tinder-founder-what-its-really-like-to-build-a-3-billion-startup-in-your-20s) `Audio` `34:55`  
