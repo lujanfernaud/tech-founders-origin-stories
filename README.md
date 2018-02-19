@@ -70,6 +70,9 @@
 - **ReCAPTCHA**
   - [Luis von Ahn on *From Scratch*](https://player.fm/series/from-scratch-30101/luis-von-ahn) `Audio` `32:00`  
 &nbsp;
+- **Robinhood**
+  - [Vlad Tenev on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/robinhood-ceo-how-i-was-rejected-by-75-investors-but-still-built-a-13-billion-app) `Audio` `22:41`  
+&nbsp;
 ## S
 &nbsp;
 - **Stripe**
