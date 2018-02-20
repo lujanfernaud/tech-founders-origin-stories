@@ -15,6 +15,11 @@
 - **BuzzFeed**
   - [Jonah Peretti on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/buzzfeed-and-huffington-post-founder-jonah-peretti-how-i-turned-an-instant-messenger-bot-into-a-15-billion-media-empire) `Audio` `40:05`  
 &nbsp;
+## C
+&nbsp;
+- **Craigslist**
+  - [Craig Newmark on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/craigslist-founder-craig-newmark-how-i-learned-not-to-be-a-jerk-plus-kpmg-chairman-lynne-doughtie-how-i-became-one-of-the-few-top-female-ceos) `Audio` `7:57` `(Starts on 18:40)`  
+&nbsp;
 ## D
 &nbsp;
 - **Dell Computers**
