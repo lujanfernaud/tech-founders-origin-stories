@@ -75,6 +75,9 @@
 - **Pandora**
   - [Tim Westergren on *From Scratch*](https://player.fm/series/from-scratch-30101/tim-westergren) `Audio` `32:00`  
 &nbsp;
+- **PayPal**
+  - [Max Levchin on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/max-levchin-how-i-cofounded-and-built-paypal-into-a-payments-monster-after-6-pivots) `Audio` `30:03`  
+&nbsp;
 ## R
 &nbsp;
 - **ReCAPTCHA**
