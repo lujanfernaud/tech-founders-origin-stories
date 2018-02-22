@@ -124,3 +124,8 @@
 - **Wipro**
   - [Azim Premji on *From Scratch*](https://player.fm/series/from-scratch-30101/azim-premji) `Audio` `32:00`  
 &nbsp;
+## Z
+&nbsp;
+- **Zappos**
+  - [Tony Hsieh on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/zappos-tony-hsieh) `Audio` `30:03`  
+&nbsp;
