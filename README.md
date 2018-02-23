@@ -23,6 +23,9 @@
 &nbsp;
 ## C
 &nbsp;
+- **Compaq**
+  - [Rod Canion on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/compaq-computers-rod-canion) `Audio` `40:17`  
+&nbsp;
 - **Craigslist**
   - [Craig Newmark on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/craigslist-founder-craig-newmark-how-i-learned-not-to-be-a-jerk-plus-kpmg-chairman-lynne-doughtie-how-i-became-one-of-the-few-top-female-ceos) `Audio` `7:57` `(Starts on 18:40)`  
 &nbsp;
