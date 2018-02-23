@@ -71,6 +71,7 @@
   - [Reid Hoffman on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/linkedins-reid-hoffman-how-i-went-from-board-games-to-the-board-room) `Audio` `26:44`  
 &nbsp;
 - **Lyft**
+  - [John Zimmer on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/lyft-john-zimmer) `Audio` `41:00`
   - [John Zimmer on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/lyfts-john-zimmer-how-i-went-from-sleeping-on-a-friends-couch-eating-frozen-trader-joes-meals-to-running-a-75-billion-company) `Audio` `27:49`  
 &nbsp;
 ## O
