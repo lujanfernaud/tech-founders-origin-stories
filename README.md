@@ -74,6 +74,11 @@
 - **Instagram**
   - [Kevin Systrom & Mike Krieger on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/instagram-kevin-systrom-mike-krieger-98iAhuOIQGDw1doL) `Audio` `33:32`  
 &nbsp;
+## K
+&nbsp;
+- **Kickstarter**
+  - [Perry Chen on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/kickstarter-perry-chen) `Audio` `43:03`  
+&nbsp;
 ## L
 &nbsp;
 - **LinkedIn**
