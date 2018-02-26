@@ -61,11 +61,6 @@
 - **Group Nine**
   - [Ben Lerer on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/group-nine-ceo-how-i-turned-an-email-for-civilized-bros-into-a-600-million-empire) `Audio` `30:21`  
 &nbsp;
-## H
-&nbsp;
-- **Huffington Post**
-  - [Jonah Peretti on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/buzzfeed-and-huffington-post-founder-jonah-peretti-how-i-turned-an-instant-messenger-bot-into-a-15-billion-media-empire) `Audio` `40:05`  
-&nbsp;
 ## I
 &nbsp;
 - **Infosys**
