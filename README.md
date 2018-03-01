@@ -113,6 +113,9 @@
 &nbsp;
 ## S
 &nbsp;
+- **Slack**
+  - [Cal Henderson on *Slush's Founder Story*](https://www.youtube.com/watch?v=NhQ-W7Cjb4o) `Video` `17:30`  
+&nbsp;
 - **Stripe**
   - [Patrick Collison on *From Scratch*](https://player.fm/series/from-scratch-30101/patrick-collison) `Audio` `32:00`  
 &nbsp;
