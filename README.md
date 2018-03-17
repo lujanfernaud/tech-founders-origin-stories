@@ -160,3 +160,6 @@
 - **Zappos**
   - [Tony Hsieh on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/zappos-tony-hsieh) `Audio` `30:03`  
 &nbsp;
+- **Zynga**
+  - [Mark Pincus on *Slush's Founder Story*](https://www.youtube.com/watch?v=Y-Q27GbjDPE) `Video` `23:46`  
+&nbsp;
