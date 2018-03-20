@@ -15,6 +15,9 @@
 &nbsp;
 ## B
 &nbsp;
+- **Blinkist**
+  - [Holger Seim on *Slush's Founder Story*](https://www.youtube.com/watch?v=iZG0xADYFz8) `Video` `12:16`  
+&nbsp;
 - **Box**
   - [Aaron Levie on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/box-ceo-i-built-a-25-billion-company-and-took-it-public-at-age-29-but-it-was-insanely-hard) `Audio` `22:20`  
 &nbsp;
