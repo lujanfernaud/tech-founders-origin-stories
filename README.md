@@ -15,6 +15,9 @@
 &nbsp;
 ## B
 &nbsp;
+- **Basecamp**
+  - [Jason Fried on *Chicago Founders’ Stories*](https://www.youtube.com/watch?v=JxtYiK5GACc) `Video` `1:37:35`  
+&nbsp;
 - **Blinkist**
   - [Holger Seim on *Slush's Founder Story*](https://www.youtube.com/watch?v=iZG0xADYFz8) `Video` `12:16`  
 &nbsp;
