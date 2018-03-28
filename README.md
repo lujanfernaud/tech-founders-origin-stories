@@ -158,6 +158,9 @@
 - **WeWork**
   - [Miguel McKelvey on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/wework-miguel-mckelvey) `Audio` `48:10`  
 &nbsp;
+- **WhatsApp**
+  - [Jan Koum on *Startup Grind*](https://www.youtube.com/watch?v=puVxnKuFarA) `Video` `39:05`  
+&nbsp;
 - **Wikipedia**
   - [Jimmy Wales on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/wikipedia-jimmy-wales) `Audio` `43:48`  
 &nbsp;
