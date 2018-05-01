@@ -101,6 +101,9 @@
 - **Mapbox**
   - [Eric Gundersen on *Slush's Founder Story*](https://www.youtube.com/watch?v=dtZw6ErTvKM) `Video` `18:06`  
 &nbsp;
+- **MySpace**
+  - [Tom Anderson Interviewed by Tai Lopez](https://www.youtube.com/watch?v=jjnJhATNxAU) `Video` `1:26:23`  
+&nbsp;
 ## O
 &nbsp;
 - **OnePlus**
