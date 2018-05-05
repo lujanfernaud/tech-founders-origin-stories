@@ -3,6 +3,9 @@
 - **Airbnb**
   - [Joe Gebbia on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/airbnb-joe-gebbia) `Audio` `42:24`  
 &nbsp;
+- **Amazon**
+  - [Jeff Bezos on *Success! How I Did It*](https://player.fm/series/success-how-i-did-it-1761353/amazon-founder-jeff-bezos-how-i-built-an-empire) `Audio` `49:41`  
+&nbsp;
 - **AOL**
   - [Steve Case on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/aol-steve-case) `Audio` `34:21`  
 &nbsp;
