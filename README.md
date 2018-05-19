@@ -165,6 +165,9 @@ Audio and video files where tech founders tell the origin stories of their compa
 - **TripAdvisor**
   - [Stephen Kaufer on *TechCrunch's Founder Stories*](https://www.youtube.com/watch?v=5JBa9ZH1i1M) `Video` `11:42`  
 &nbsp;
+- **Tumblr**
+  - [David Karp on *From Scratch*](https://player.fm/series/from-scratch-with-jessica-harris-30101/david-karp) `Audio` `32:00`  
+&nbsp;
 ## W
 &nbsp;
 - **WeWork**
