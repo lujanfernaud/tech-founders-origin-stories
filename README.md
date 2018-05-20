@@ -1,8 +1,8 @@
-# Tech Founders' Stories
+# Tech Founders' Origin Stories
 
 Audio and video files where tech founders tell the origin stories of their companies.
 
-*Note: This files are mainly focused on the founder and company story, not on founder advice.*  
+*Note: This files are mainly focused on the founder story and the company origin story, not on founder advice.*  
 &nbsp;
 ## A
 &nbsp;
