@@ -146,6 +146,7 @@ Audio and video files where tech founders tell the origin stories of their compa
   - [Cal Henderson on *Slush's Founder Story*](https://www.youtube.com/watch?v=NhQ-W7Cjb4o) `Video` `17:30`  
 &nbsp;
 - **Stripe**
+  - [Patrick and John Collison on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/stripe-patrick-and-john-collison) `Audio` `43:14`
   - [Patrick Collison on *From Scratch*](https://player.fm/series/from-scratch-30101/patrick-collison) `Audio` `32:00`  
 &nbsp;
 ## T
