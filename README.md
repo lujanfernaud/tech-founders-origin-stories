@@ -42,6 +42,9 @@ Audio and video files where tech founders tell the origin stories of their compa
 &nbsp;
 ## C
 &nbsp;
+- **CD Baby**
+  - [Derek Sivers on *Business of Software 2010*](https://player.fm/series/business-of-software-podcast/why-i-sold-my-business-and-gave-the-money-away-derek-sivers-cd-baby-bos-2010) `Audio` `35:22`  
+&nbsp;
 - **Compaq**
   - [Rod Canion on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/compaq-computers-rod-canion) `Audio` `40:17`  
 &nbsp;
