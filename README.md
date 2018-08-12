@@ -68,6 +68,8 @@ A selection of audio and video interviews where tech founders tell the origin st
 &nbsp;
 ## F
 &nbsp;
+- **Flickr**
+  - [Stewart Butterfield on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/slack-flickr-stewart-butterfield) `Audio` `1:04:44`  
 - **Funding Circle**
   - [Samir Desai on *Slush's Founder Story*](https://www.youtube.com/watch?v=fzextuEOEA4) `Video` `18:07`  
 &nbsp;
@@ -144,7 +146,8 @@ A selection of audio and video interviews where tech founders tell the origin st
 ## S
 &nbsp;
 - **Slack**
-  - [Cal Henderson on *Slush's Founder Story*](https://www.youtube.com/watch?v=NhQ-W7Cjb4o) `Video` `17:30`  
+  - [Cal Henderson on *Slush's Founder Story*](https://www.youtube.com/watch?v=NhQ-W7Cjb4o) `Video` `17:30`
+  - [Stewart Butterfield on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/slack-flickr-stewart-butterfield) `Audio` `1:04:44`  
 &nbsp;
 - **Stripe**
   - [Patrick and John Collison on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/stripe-patrick-and-john-collison) `Audio` `43:14`
