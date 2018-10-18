@@ -45,6 +45,9 @@ A selection of audio and video interviews where tech founders tell the origin st
 - **CD Baby**
   - [Derek Sivers on *Business of Software 2010*](https://player.fm/series/business-of-software-podcast/why-i-sold-my-business-and-gave-the-money-away-derek-sivers-cd-baby-bos-2010) `Audio` `35:22`  
 &nbsp;
+- **Cisco Systems**
+  - [Sandy Lerner on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/cisco-systems-urban-decay-sandy-lerner) `Audio` `1:01:58`  
+&nbsp;
 - **Compaq**
   - [Rod Canion on *How I Built This*](https://player.fm/series/how-i-built-this-with-guy-raz/compaq-computers-rod-canion) `Audio` `40:17`  
 &nbsp;
