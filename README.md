@@ -23,7 +23,7 @@ A selection of audio and video interviews where tech founders tell the origin st
     &nbsp;
 - **Atari**
   - [Nolan Bushnell on _How I Built This_](https://player.fm/series/how-i-built-this-with-guy-raz/atari-chuck-e-cheeses-nolan-bushnell) `Audio` `50:56`
-  - [Nolan Bushnell on _From Scratch_](https://player.fm/series/from-scratch-30101/nolan-bushnell) `Audio` `32:00`  
+  - [Nolan Bushnell on _From Scratch_](http://www.fromscratchradio.org/show/nolan-bushnell) `Audio` `32:00`  
     &nbsp;
 
 ## B
