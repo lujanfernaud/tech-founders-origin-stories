@@ -13,7 +13,7 @@ A selection of audio and video interviews where tech founders tell the origin st
   - [Joe Gebbia on _How I Built This_](https://player.fm/series/how-i-built-this-with-guy-raz/airbnb-joe-gebbia) `Audio` `42:24`  
     &nbsp;
 - **Amazon**
-  - [Jeff Bezos on _Success! How I Did It_](https://player.fm/series/success-how-i-did-it-1761353/amazon-founder-jeff-bezos-how-i-built-an-empire) `Audio` `49:41`  
+  - [Jeff Bezos on _Success! How I Did It_](https://www.stitcher.com/podcast/business-insider/success-how-i-did-it/e/54345270) `Audio` `49:41`  
     &nbsp;
 - **AOL**
   - [Steve Case on _How I Built This_](https://player.fm/series/how-i-built-this-with-guy-raz/aol-steve-case) `Audio` `34:21`  
